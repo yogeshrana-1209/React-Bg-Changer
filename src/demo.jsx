@@ -14,7 +14,8 @@ function Demo() {
                     </summary>
                     <div className="mt-3 text-sm leading-6 text-gray-600 dark:text-neutral-400">
                         <p>Developed By : Yogesh Rana</p>
-                        <p>Deploy On : 08/11/2024 v-0.1.1</p>
+                        <p>Last Updated On : 16/09/2025</p>
+                        <p>Last Deploy On : 16/09/2025 v-0.0.1</p>
                     </div>
                 </details>
             </div>
